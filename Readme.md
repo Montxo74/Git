@@ -181,7 +181,6 @@ El software **Ventoy** viene instalado por defecto en las últimas versiones de 
 4. Se inicia Ventoy y nos muestra un menú donde podremos escoger cualquiera de los archivos ISO guardados. Escogemos el de Abalinux y pulsamos **Enter**.
 
 ![Arranque Inicial](./Abalimagenes/Arranque_1.png)
-![Arranque Inicial](./Abalimagenes/Arranque_1.png)
 
 5. A continuación escogemos la opción por defecto **Boot in normal mode** y luego la entrada de **Abalinux** para iniciar el entorno Live que nos permitirá instalar el sistema.
 6. A partir de aquí seguimos los pasos indicados en: [Instalación Fácil](#1-instalación-fácil)
