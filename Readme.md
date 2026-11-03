@@ -185,6 +185,11 @@ El software **Ventoy** viene instalado por defecto en las últimas versiones de 
 5. A continuación escogemos la opción por defecto **Boot in normal mode** y luego la entrada de **Abalinux** para iniciar el entorno Live que nos permitirá instalar el sistema.
 6. A partir de aquí seguimos los pasos indicados en: [Instalación Fácil](#1-instalación-fácil)
 
+##INFORMACIÓN DEL PROYECTO
+Esta información se ha elaborado utilizando MARKDOWN
+
+El control de versiones se realiza mediante Git y el repositorio remoto se encuenta alojado en GitHub.
+
 > **Incidencia ocasional:** En algunos modelos puede aparecer una pantalla distorsionada en la que no se distingue nada; para estos casos escogeremos la opción **Boot in grub2 mode**.
 
 ---
