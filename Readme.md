@@ -191,7 +191,10 @@ Esta información se ha elaborado utilizando MARKDOWN
 El control de versiones se realiza mediante Git y el repositorio remoto se encuenta alojado en GitHub.
 
 > **Incidencia ocasional:** En algunos modelos puede aparecer una pantalla distorsionada en la que no se distingue nada; para estos casos escogeremos la opción **Boot in grub2 mode**.
-
+## PRÓXIMAS MEJORAS.
+1- Link nueva actualización de Abalinux.
+2- Instalación de nuevas aplicaciones Educativas.
+3- Acceso a CAU para gestionar dudas o incidencias.
 ---
 
 ---
